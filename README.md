@@ -6,6 +6,7 @@ In order to run this example, you need to have the IONOS_* credentials or better
 <pre>
 ~/$ <b>cd terraform-helloworld</b>
 ~/terraform-helloworld$ <b>export IONOS_TOKEN=xxx</b>
+~/terraform-helloworld$ <b>terraform init</b>
 ~/terraform-helloworld$ <b>terraform apply</b>
 
 Terraform used the selected providers to generate the following execution plan. Resource actions are indicated with the following symbols:
