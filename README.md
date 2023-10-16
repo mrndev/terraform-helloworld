@@ -27,3 +27,6 @@ myserver_ip_address = <b>"217.160.221.218"</b>
 <i>inside my newly created VM!...</i>
 
 </pre>
+
+# Useful links
+- Terraform provider documentation https://registry.terraform.io/providers/ionos-cloud/ionoscloud/latest/docs
